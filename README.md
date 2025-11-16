@@ -21,4 +21,8 @@ Nim: 312510297
 <img width="640" height="298" alt="Latihan1 3" src="https://github.com/user-attachments/assets/aab40e81-4af3-4f57-8580-cf58a6499e7e" /><br>
 1. Code diatas akan menampilkan data mahasiswa yang sudah diinputkan dalam format tabel<br>
 
+<h2>Output code</h2>
+<img width="804" height="285" alt="Latihan1 4" src="https://github.com/user-attachments/assets/fef10c07-d2a8-43bb-a6f1-8c5f46ece8eb" /><br>
+
+
 
